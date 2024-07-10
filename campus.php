@@ -93,7 +93,7 @@
                 <h3>CAMPUS JUAN CABALLERO Y OSIO</h3>
                 <div class="text">
                     <h4>Maternal y Kínder</h4>
-                    <p>Juan Caballero y Osio #72 Col. Jardines de Querétaro <br> (442) 223 0266 / 295 5120kinderjuancaballero@colegiosbosques.edu.mxLunes a Viernes de 7:30 am. a 3:00 pm.</p>
+                    <p>Juan Caballero y Osio #72 Col. Jardines de Querétaro <br> (442) 223 0266 / 295 5120kinderjuancaballero@colegiosbosques.edu.mx <br> Lunes a Viernes de 7:30 am. a 3:00 pm.</p>
                 </div>
             </div>
 
@@ -102,7 +102,7 @@
                 <h3>CAMPUS MILENIO III</h3>
                 <div class="text">
                     <h4>Kínder y Primaria</h4>
-                    <p>Av. Senda Eterna 412 Col. Milenio III Querétaro <br> (442) 253 3297 / 253 3298primariamilenio@colegiosbosques.edu.mxLunes a Viernes de 7:30 am. a 3:00 pm.</p>
+                    <p>Av. Senda Eterna 412 Col. Milenio III Querétaro <br> (442) 253 3297 / 253 3298primariamilenio@colegiosbosques.edu.mx <br> Lunes a Viernes de 7:30 am. a 3:00 pm.</p>
                 </div>
             </div>
         </section>
@@ -115,7 +115,7 @@
                 <h3>CAMPUS ARCOS</h3>
                 <div class="text">
                     <h4>Primaria</h4>
-                    <p>Cerrada de la Asunción #5 Col. Loma Dorada Querétaro <br> (442) 213 9390 / 248 5211primariaarcos@colegiosbosques.edu.mxLunes a Viernes de 7:30 am. a 3:00 pm.</p>
+                    <p>Cerrada de la Asunción #5 Col. Loma Dorada Querétaro <br> (442) 213 9390 / 248 5211primariaarcos@colegiosbosques.edu.mx <br> Lunes a Viernes de 7:30 am. a 3:00 pm.</p>
                 </div>
             </div>
 
@@ -124,7 +124,7 @@
                 <h3>CAMPUS REAL</h3>
                 <div class="text">
                     <h4>Secundaria y Preparatoria</h4>
-                    <p>Calle Camino Real 1-A San Pablo, Querétaro <br> (442) 217 9834 / 295 5113admisiones@colegiosbosques.edu.mxLunes a Viernes de 7:30 am. a 3:00 pm.</p>
+                    <p>Calle Camino Real 1-A San Pablo, Querétaro <br> (442) 217 9834 / 295 5113admisiones@colegiosbosques.edu.mx <br> Lunes a Viernes de 7:30 am. a 3:00 pm.</p>
                 </div>
             </div>
         </section>

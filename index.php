@@ -109,7 +109,7 @@
         <a href="">PLATAFORMA BOSQUES</a>
         <a href="" target="__blank"><img src="img/whats.png" alt="">442 347 7700</a>
         <a href="tel:+(442) 217 9834">(442) 217 9834</a>
-        <a href="">ADMISIONES</a>
+        <a href="admisiones.php">ADMISIONES</a>
         <div class="redes">
           <a href="" target="__blank"><i class="fab fa-instagram"></i></a>
           <a href="" target="__blank"><i class="fab fa-facebook"></i></a>

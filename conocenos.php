@@ -95,12 +95,12 @@
 
 
                 <div class="contenedor">
-                    <a href="" class="button">Maternal y kínder Campus JCYO</a>
-                    <a href="" class="button">Kínder Campus Milenio</a>
-                    <a href="" class="button">Primaria Campus Milenio</a>
-                    <a href="" class="button">Campus Arcos Primaria</a>
-                    <a href="" class="button">Secundaria</a>
-                    <a href="" class="button">Preparatoria</a>
+                    <a href="javascript:void(0);" class="button">Maternal y kínder Campus JCYO</a>
+                    <a href="javascript:void(0);" class="button">Kínder Campus Milenio</a>
+                    <a href="javascript:void(0);" class="button">Primaria Campus Milenio</a>
+                    <a href="javascript:void(0);" class="button">Campus Arcos Primaria</a>
+                    <a href="javascript:void(0);" class="button">Secundaria</a>
+                    <a href="javascript:void(0);" class="button">Preparatoria</a>
                 </div>
             </div>
             <div class="franja"></div>
@@ -118,7 +118,7 @@
                     <figure class="bg">
                         <img src="img/schoolar.jpg" alt="">
                     </figure>
-                    <a href="" class="button secondary" style="background-color: rgba(255,255,255,0.9);">Admisiones</a>
+                    <a href="admisiones.phpjavascript:void(0);" class="button secondary" style="background-color: rgba(255,255,255,0.9);">Admisiones</a>
                 </div>
             </div>
         </section>

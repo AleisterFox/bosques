@@ -2,7 +2,7 @@
     <nav>
         <a href="index.php">
             <picture>
-                <source media="(max-width: 768px)" srcset="img/icono.png" />
+                <source media="(max-width: 768px)" srcset="img/logo.png" />
                 <img src="img/logo.png" alt="" />
             </picture>
         </a>
@@ -26,6 +26,9 @@
             <li><a href="admisiones.php">Admisiones</a></li>
             <li><a href="becas.php">Becas</a></li>
             <li><a href="contacto.php" class="button">Contacto</a></li>
+            <li><a href="javascript:void(0);">
+                <img src="img/en.png" alt=""></a>
+            </li>
         </ul>
         <a><i class="fa-solid fa-bars menu__button"></i></a>
     </nav>
