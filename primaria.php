@@ -241,16 +241,66 @@
             <p>HORARIO DE CLASES: 7:50 am a 1:50 pm</p>
         </section>
 
-        <!-- <section id="talleres">
+        <section id="talleres">
+            <div class="titulo">
+                <h3>TALLERES AFTER SCHOOL</h3>
+            </div>
+            <div class="franja"></div>
             <div class="container">
                 <div class="bg">
                     <figure>
                         <img src="img/talleres.jpg" alt="">
                     </figure>
                 </div>
-                .taller*8>
+
+                <div class="taller">
+                    <figure><img src="img/tae-b.png" alt=""></figure>
+                    <p>TAE KWON DO</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/artes-b.png" alt=""></figure>
+                    <p>Artes</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/belly.png" alt=""></figure>
+                    <p>Belly</p>
+                </div>
+
+                <div class="taller">
+                    <figure><img src="img/tareas-b.png" alt=""></figure>
+                    <p>Club de tareas</p>
+                </div>
+                
+                <div class="taller">
+                    <figure><img src="img/aloha.png" alt=""></figure>
+                    <p>Aloha</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/catecismo.png" alt=""></figure>
+                    <p>Catecismo</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/futbol-b.png" alt=""></figure>
+                    <p>Fútbol</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/cuentos-b.png" alt=""></figure>
+                    <p>Cocinando Cuentos</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/ajedrez.png" alt=""></figure>
+                    <p>Ajedrez</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/guitarra.png" alt=""></figure>
+                    <p>Guitarra</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/pompones.png" alt=""></figure>
+                    <p>Pompones</p>
+                </div>
             </div>
-        </section> -->
+        </section>
 
         <div class="credenciales">
             <p class="clave">PRIMARIA MILENIO III : CCT:22PPR0168T RVOE: 2004-060 12 DE JULIO 2004</p>

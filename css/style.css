@@ -376,16 +376,28 @@ section>h2 {
     background-color: rgba(255, 255, 255, 0.5);
 }
 
-#maternal #owl-hero .item::after, #kinder #owl-hero .item::after, #primaria #owl-hero .item::after, #secundaria #owl-hero .item::after, #preparatoria #owl-hero .item::after {
+#maternal #owl-hero .item::after,
+#kinder #owl-hero .item::after,
+#primaria #owl-hero .item::after,
+#secundaria #owl-hero .item::after,
+#preparatoria #owl-hero .item::after {
 
     background-color: var(--color-fade);
 }
 
-#maternal .item, #kinder .item, #primaria .item, #secundaria .item, #preparatoria .item {
+#maternal .item,
+#kinder .item,
+#primaria .item,
+#secundaria .item,
+#preparatoria .item {
     padding: var(--padding);
 }
 
-#maternal .item .text, #kinder .item .text, #primaria .item .text, #secundaria .item .text, #preparatoria .item .text {
+#maternal .item .text,
+#kinder .item .text,
+#primaria .item .text,
+#secundaria .item .text,
+#preparatoria .item .text {
     display: flex;
     flex-wrap: wrap;
     column-gap: 10rem;
@@ -394,16 +406,28 @@ section>h2 {
     justify-content: space-between;
 }
 
-#maternal .item .text .left, #kinder .item .text .left, #primaria .item .text .left, #secundaria .item .text .left, #preparatoria .item .text .left {
+#maternal .item .text .left,
+#kinder .item .text .left,
+#primaria .item .text .left,
+#secundaria .item .text .left,
+#preparatoria .item .text .left {
     flex-basis: 40rem;
     flex-grow: 1;
 }
 
-#maternal .item .text > figure, #kinder .item .text > figure, #primaria .item .text > figure, #secundaria .item .text > figure, #preparatoria .item .text > figure {
+#maternal .item .text>figure,
+#kinder .item .text>figure,
+#primaria .item .text>figure,
+#secundaria .item .text>figure,
+#preparatoria .item .text>figure {
     flex-basis: 50rem;
 }
 
-#maternal #owl-hero h1, #kinder #owl-hero h1, #primaria #owl-hero h1, #secundaria #owl-hero h1, #preparatoria #owl-hero h1 {
+#maternal #owl-hero h1,
+#kinder #owl-hero h1,
+#primaria #owl-hero h1,
+#secundaria #owl-hero h1,
+#preparatoria #owl-hero h1 {
     font-size: 3.2rem;
     padding-bottom: 1rem;
     border-bottom: 1px solid white;
@@ -411,7 +435,11 @@ section>h2 {
     margin-bottom: 1rem;
 }
 
-#maternal #owl-hero p, #kinder #owl-hero p, #primaria #owl-hero p, #secundaria #owl-hero p, #preparatoria #owl-hero p {
+#maternal #owl-hero p,
+#kinder #owl-hero p,
+#primaria #owl-hero p,
+#secundaria #owl-hero p,
+#preparatoria #owl-hero p {
     font-size: 2rem;
     text-align: left;
     color: white;
@@ -588,8 +616,10 @@ section>h2 {
     font-size: 1.6rem;
 }
 
-#pilares h2, #pilares h3, #pilares li{
-    color:  var(--color) ;
+#pilares h2,
+#pilares h3,
+#pilares li {
+    color: var(--color);
 }
 
 /* PILARES  */
@@ -702,10 +732,77 @@ section>h2 {
     margin-bottom: 10rem;
 }
 
-#talleres .container {
-
+#talleres .titulo {
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    background-color: var(--color);
+    padding: 1rem 0;
+    width: 60rem;
+    max-width: 90%;
+    margin: var(--center);
 }
 
+#talleres .titulo h3 {
+    color: white;
+    text-align: center;
+    font-size: 2.4rem;
+}
+
+#talleres .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10rem;
+    position: relative;
+    padding: var(--padding);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    border-radius: 3rem;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 10px 15px 0px #00000040;
+}
+
+#talleres .franja {
+    height: 30rem;
+    width: 100%;
+    background-color: var(--color);
+    z-index: -2;
+    position: absolute;
+    left: 0;
+    top: 55%;
+    transform: translateY(-50%);
+}
+
+.taller {
+    flex-basis: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.taller figure {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 20rem;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.taller img {
+    object-fit: contain;
+    width: 50%;
+    height: 50%;
+}
+
+.taller p {
+    text-align: center;
+    color: var(--color);
+}
 
 /* TALLERES  */
 
@@ -783,7 +880,7 @@ section>h2 {
     transform: translateY(-50%);
 }
 
-#locations > figure {
+#locations>figure {
     flex-basis: 40rem;
 }
 

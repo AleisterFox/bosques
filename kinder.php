@@ -247,16 +247,52 @@
             <p>HORARIO DE CLASES: 8:30 am a 1:00 pm</p>
         </section>
 
-        <!-- <section id="talleres">
+        <section id="talleres">
+            <div class="titulo">
+                <h3>TALLERES AFTER SCHOOL</h3>
+            </div>
+            <div class="franja"></div>
             <div class="container">
                 <div class="bg">
                     <figure>
                         <img src="img/talleres.jpg" alt="">
                     </figure>
                 </div>
-                .taller*8>
+
+                <div class="taller">
+                    <figure><img src="img/tae.png" alt=""></figure>
+                    <p>TAE KWON DO</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/artes.png" alt=""></figure>
+                    <p>Artes</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/tareas.png" alt=""></figure>
+                    <p>Club de tareas</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/ballet.png" alt=""></figure>
+                    <p>Ballet</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/zumba.png" alt=""></figure>
+                    <p>Zumba</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/babydance.png" alt=""></figure>
+                    <p>Baby dance & gym</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/futbol.png" alt=""></figure>
+                    <p>Fútbol (2° y 3°)</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/cuentos.png" alt=""></figure>
+                    <p>Cocinando Cuentos</p>
+                </div>
             </div>
-        </section> -->
+        </section>
 
         <div class="credenciales">
             <p class="clave">KÍNDER CAMPUS JUAN CABALLERO : CCT:22PJN0269A RVOE: 2007-082 4 DE SEPTIEMBRE 2007</p>

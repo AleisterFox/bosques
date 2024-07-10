@@ -242,6 +242,53 @@
             <p>HORARIO EXTENDIDO: 6:30 am a 3:40 pm</p>
         </section>
 
+        <section id="talleres">
+            <div class="titulo">
+                <h3>TALLERES AFTER SCHOOL</h3>
+            </div>
+            <div class="franja"></div>
+            <div class="container">
+                <div class="bg">
+                    <figure>
+                        <img src="img/talleres.jpg" alt="">
+                    </figure>
+                </div>
+
+                <div class="taller">
+                    <figure><img src="img/futbol-n.png" alt=""></figure>
+                    <p>Soccer varonil</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/ajedrez-n.png" alt=""></figure>
+                    <p>Ajedrez</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/tochito.png" alt=""></figure>
+                    <p>Tochito femenil</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/voley-n.png" alt=""></figure>
+                    <p>Voleibol</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/basquet-n.png" alt=""></figure>
+                    <p>Basquetbol</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/artes-n.png" alt=""></figure>
+                    <p>Artes</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/tae-n.png" alt=""></figure>
+                    <p>Artes Marciales Mixtas.</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/danza.png" alt=""></figure>
+                    <p>Danza contemporánea</p>
+                </div>
+            </div>
+        </section>
+
         <div class="credenciales">
             <p class="clave">PREPARATORIA CCT:22PBH0065N RVOE: 2007-021 11 DE JUNIO 2007</p>
 

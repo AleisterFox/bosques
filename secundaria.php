@@ -222,6 +222,45 @@
             <p>HORARIO EXTENDIDO: 6:30 am a 3:40 pm</p>
         </section>
 
+        <section id="talleres">
+            <div class="titulo">
+                <h3>TALLERES AFTER SCHOOL</h3>
+            </div>
+            <div class="franja"></div>
+            <div class="container">
+                <div class="bg">
+                    <figure>
+                        <img src="img/talleres.jpg" alt="">
+                    </figure>
+                </div>
+
+                <div class="taller">
+                    <figure><img src="img/ajedrez-v.png" alt=""></figure>
+                    <p>Ajedrez</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/basquet.png" alt=""></figure>
+                    <p>Basquetbol</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/futbol-v.png" alt=""></figure>
+                    <p>Futbol Varonil y Femenil</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/idiomas.png" alt=""></figure>
+                    <p>Inglés y francés</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/pompones-v.png" alt=""></figure>
+                    <p>Cheer Dance</p>
+                </div>
+                <div class="taller">
+                    <figure><img src="img/voley.png" alt=""></figure>
+                    <p>Voleibol</p>
+                </div>
+            </div>
+        </section>
+
         <div class="credenciales">
             <p class="clave">SECUNDARIA: CCT:22PES0092N RVOE: 2006-037 14 DE JUNIO 2006</p>
 
